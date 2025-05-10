@@ -8,7 +8,7 @@ public class JavaApplication18 {
         // TODO code application logic here
         
         String nombre;
-        
+         int edad; 
         
     }
     
